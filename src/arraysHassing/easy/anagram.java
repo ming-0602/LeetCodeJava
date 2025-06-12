@@ -1,4 +1,4 @@
-package arraysHassing;
+package arraysHassing.easy;
 
 import java.util.Arrays;
 

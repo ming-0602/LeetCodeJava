@@ -1,8 +1,6 @@
-package arraysHassing;
+package arraysHassing.easy;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
-import java.util.Comparator;
 
 public class twosum {
     public static void main(String[] args) {
